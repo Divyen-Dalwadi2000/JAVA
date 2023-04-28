@@ -1,4 +1,4 @@
-
+// write a java code for TCP in java to send number and check whether it is palindrome or not
 import java.io.*;
 import java.net.*;
 
