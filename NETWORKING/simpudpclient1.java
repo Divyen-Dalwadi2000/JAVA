@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 // Q-3(B) write a java code for UDP in java to send String From a server and check the Client side How many VOWEL in the String
 import java.net.*;
 
