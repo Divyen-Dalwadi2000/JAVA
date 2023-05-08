@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 //Q-4(B) Java code for UDP multithreading that sends an ATM or credit card number to a server and validates whether the number
 // is valid or not using the Luhn algorithm.
 
@@ -50,20 +44,6 @@ public class UDPClient {
 // The output on the client side will look like:
 // Enter the card number to validate: 1234567890123456
 // Received message: Card number is valid
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
