@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 // Q-2 (A) write a java code for TCP  Multithreding in java to send String and return the reverse of string and length of string
 import java.io.*;
 import java.net.*;
