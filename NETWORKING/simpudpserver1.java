@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 // Q-3(A) rite a java code for UDP in java to send String and check How many VOWEL in the String
 
 import java.net.*;
