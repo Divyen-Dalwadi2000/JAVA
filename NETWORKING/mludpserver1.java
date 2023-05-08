@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 // Q-4(A) Java code for UDP multithreading that sends an ATM or credit card number to a server and validates whether the number
 // is valid or not using the Luhn algorithm.
 
