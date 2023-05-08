@@ -1,9 +1,3 @@
-NAME 	   : DALWADI DIVYEN
-ROLLNO     : 06
-COURSE     : MCA-2
-SUBJECT    : ADVANCE NETWORKING
-ASSIGNMENT : PRACTICAL ASSIGNMENT
-*************************************************************************************
 //q-1(A) write a java code for TCP in java to send number and check whether it is palindrome or not
 
 package one;
